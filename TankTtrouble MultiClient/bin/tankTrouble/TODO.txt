@@ -1,0 +1,9 @@
+reflection of balls on sides of length 10px --> Done
+health sync --> Done
+better tank-Obstacle collision --> Done
+In Lobby System --> Done
+more than 2 players --> Done
+better mutiplayer sync --> more to do...
+disconnection feature --> Done
+exchange ball coords 
+exchange level data
